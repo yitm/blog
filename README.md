@@ -7,4 +7,4 @@
 
 #### 读到的书籍
 
-* [JavaScript权威指南(第6版)](号称web前端开发者的圣经，一人一本)
+* [JavaScript权威指南(第6版)](http://book.douban.com/subject/10549733/) 号称web前端开发者的圣经，一人一本
