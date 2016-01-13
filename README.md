@@ -7,4 +7,11 @@
 
 #### 读到的书籍
 
-* [JavaScript权威指南(第6版)](http://book.douban.com/subject/10549733/) 号称web前端开发者的圣经，一人一本
+* [JavaScript权威指南(第6版)](http://book.douban.com/subject/10549733/)
+* [用AngularJS开发下一代Web应用](http://book.douban.com/subject/25752512/)
+* [编写可维护的JavaScript](http://book.douban.com/subject/21792530/)
+* [JavaScript性能优化](http://book.douban.com/subject/25854153/)
+* [淘宝技术这十年](http://book.douban.com/subject/24335672/)
+* [高性能网站建设进阶指南](http://book.douban.com/subject/4719162/)
+* [Node.js实战](http://book.douban.com/subject/25870705/)
+* [Cocos2d-x实战 JS卷](http://book.douban.com/subject/26377884/)
