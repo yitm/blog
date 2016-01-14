@@ -4,6 +4,7 @@
 #### 目录
 
 * [web前端提高效率的工具](https://github.com/yitm/blog/blob/master/2016/01.md)
+* [sea.js 中 require 书写约定](https://github.com/yitm/blog/blob/master/2016/02.md)
 
 #### 读到的书籍
 
