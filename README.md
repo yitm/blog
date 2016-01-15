@@ -8,6 +8,7 @@
 * [web前端提高效率的工具](https://github.com/yitm/blog/blob/master/2016/01.md)
 * [sea.js 中 require 书写约定](https://github.com/yitm/blog/blob/master/2016/02.md)
 * [Juicer 中文文档](https://github.com/yitm/blog/blob/master/2016/03.md)
+* [Gulp 使用手册](https://github.com/yitm/blog/blob/master/2016/04.md)
 
 #### 读到的书籍
 
